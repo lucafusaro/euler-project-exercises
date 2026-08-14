@@ -14,4 +14,4 @@ A collection of my Python solutions to the [Project Euler](https://projecteuler.
 To run any individual solution:
 
 ```bash
-python problem_01.py
+python name_of_the_problem_python_solution_file.py
